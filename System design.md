@@ -149,7 +149,8 @@ $$y_t = l_t + s_{t}+\varepsilon_t$$
 
 Модель прогнозирования
 
-$$\hat{y}_{t+d} = \hat l_t +  \hat s_{t+(d\ mod p) - p}; \\
+$$\hat{y}_{t+d}$$
+$$= \hat l_t + \hat s_{t+(d\ mod p) - p}; \\
 \hat l_{t} = \alpha \left(y_t - \hat s_{t-p}\right)+ \left(1-\alpha\right) \left(\hat l_{t-1}\right)={\hat l_{t-1} + \alpha e_t}; \\
 \hat s_t = \gamma\left(y_t- \hat l_{t}\right) + \left(1-\gamma\right)\hat s_{t-p} = {\hat s_{t-p} + \gamma(1-\alpha)e_t}$$
 

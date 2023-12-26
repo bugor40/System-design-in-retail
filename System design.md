@@ -188,7 +188,8 @@ $Q_{i}$ - количество курьеров в конкретном дарк
 Заказы весом больше 7кг сделать невозможно, нужно разбивать на два.
 
 **6) Инференс модели**
-[![image-3.png](attachment:image-3.png)](https://github.com/bugor40/System-design-in-retail/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
+
+https://github.com/bugor40/System-design-in-retail/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png
 
 Инференс модели настраиваем следующим образом
 1) Собираем логи сервиса заказов в БД 
